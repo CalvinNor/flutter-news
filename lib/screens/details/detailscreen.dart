@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../data/article.dart';
+import '../../data/article.dart';
 
 class DetailScreen extends StatelessWidget {
   DetailScreen(this.article);

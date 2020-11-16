@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_app/routes/detailsroute.dart';
 import 'package:http/http.dart' as http;
 
-import '../data/article.dart';
+import '../../data/article.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
