@@ -1,0 +1,2 @@
+-dontwarn io.flutter.embedding.**
+-dontwarn com.google.android.play.core.splitcompat.SplitCompatApplication
